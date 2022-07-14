@@ -40,5 +40,5 @@
     <capability>http://openconfig.net/yang/telemetry?revision=2018-11-21&amp;module=openconfig-telemetry&amp;deviations=cisco-nx-openconfig-telemetry-deviations</capability>
     <capability>http://openconfig.net/yang/vlan?revision=2018-11-21&amp;module=openconfig-vlan&amp;deviations=cisco-nx-openconfig-vlan-deviations</capability>
   </capabilities>
-  <session-id>183592801</session-id>
+  <session-id>1733510744</session-id>
 </hello>

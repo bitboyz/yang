@@ -33,4 +33,4 @@ From NX-OS 7.0.3 and onwards, the revision statements embedded in the YANG files
 
 ### RPM Download
 
-The RPMs supporting YANG models are available for download at the Cisco Artifactory http://devhub.cisco.com/artifactory/open-nxos-agents/9.3-8/.
+The RPMs supporting YANG models are available for download at the Cisco Artifactory http://devhub.cisco.com/artifactory/open-nxos-agents/9.3-8/
